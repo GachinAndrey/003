@@ -12,3 +12,4 @@ def my_func():
 
 
 print(f'Результат {my_func()}')
+
